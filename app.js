@@ -20,3 +20,9 @@ const makeImages = (shows) => {
         }
     }
 }
+
+
+//we can request the API on every character we type
+//but it is a good practice not to overload their API 
+//this can be done with our own API
+//
